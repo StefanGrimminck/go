@@ -150,7 +150,7 @@ gometalinter --install --update
 ```
 Only thing left is to activate some layers.  
 Open the .spacemacs file in the .emacs.d folder or press `SPC f e d` in Emacs.  
-Look for `dotspacemacs-configuration-layers` and un-comment `auto-completion` and `syntax-chacking`.  
+Look for `dotspacemacs-configuration-layers` and un-comment `auto-completion` and `syntax-checking`.  
 You're probably set up now. Reboot your machine to make sure everything is loaded property.  
 
 If the autocompletion isn't working, you need to enable auto-complete-mode. 
